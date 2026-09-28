@@ -109,7 +109,7 @@ def main_hub(username):
         "1": {"name": "🎵  Music", "folder": "music"},
         "2": {"name": "🕹️  Games", "folder": "games"},
         "3": {"name": "⏱️  Timer", "folder": "timer"},
-        "4": {"name": "💬 Chat Client", "folder": "chat"}
+        "4": {"name": "💬 Chat Client (WIP)", "folder": "chat"}
     }
     
     
