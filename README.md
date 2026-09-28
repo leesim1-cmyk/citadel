@@ -7,24 +7,24 @@ run setup.py first, to install all of the python modules required (in requiremen
 # current files
 
 # games
-pong.py
+pong.py:
   two player basic pong
 
-snake.py
+snake.py:
   basic snake
 
-patterns.py
+patterns.py:
   a simple pattern based off of Conway's Game of Life. will add more to
 
-tictactoe.py
+tictactoe.py:
   text based tic tac toe against an ai. got of the internet and threw in for fun.
 
 # timer
-work_timer.py
+work_timer.py:
   a work timer to keep track of time. gives notifications at the 10 min, 5 min, and 1 min mark.
 
 # music
-music_player_1.py
+music_player_1.py:
   the first version of a music player, takes a folder and adds the mp3 files in it. needs folder to be made first
 
 # chat
